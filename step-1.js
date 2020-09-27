@@ -1,2 +1,1 @@
-//addition 
-50 + 5    //55
+//udemy JS practice
